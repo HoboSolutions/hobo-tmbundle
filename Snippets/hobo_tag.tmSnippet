@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;${1:show} ${2:}${2/(a)|(o)/(?1:ttr=")(?2:bj=")/}${3:}${2/(.)/"/} ${4:}${4/(a)|(o)/(?1:ttr=")(?2:bj=")/}${5:}${4/(.)/"/} /
+</string>
+	<key>name</key>
+	<string>hobo_tag (&lt;: ⇥ [tag] ⇥ a ⇥ o)</string>
+	<key>scope</key>
+	<string>text.html.ruby.dryml</string>
+	<key>tabTrigger</key>
+	<string>&lt;:</string>
+	<key>uuid</key>
+	<string>EC27107E-B5A4-47F2-A0B3-9F65113DE3A0</string>
+</dict>
+</plist>
